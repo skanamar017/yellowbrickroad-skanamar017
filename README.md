@@ -24,31 +24,15 @@ They are not really language (java/python) dependent.
 Other repos that also need to be done.
 These are both Java and Python projects. You will do one or the other.
 
-- [ ] [DanDoBetters](https://github.com/ZipCodeCore/DanDoBetterDrills) strings and functions and oh my
-- [ ] [UsingReturn1](https://github.com/ZipCodeCore/UsingReturn1) wait return vs. print/println
-- [ ] [ParenSymmetry](https://github.com/ZipCodeCore/ParenSymmetry) doing some text processing
-- [ ] [CodeInterpreters](https://github.com/ZipCodeCore/CodeInterpreters.git) objects and interpreters
+- [ ] [DanDoBetters](https://github.com/ZCW-Summer25/DanDoBetterDrills) strings and functions and oh my
+- [ ] [UsingReturn1](https://github.com/ZCW-Summer25/UsingReturn1) wait return vs. print/println
+- [ ] [ParenSymmetry](https://github.com/ZCW-Summer25/ParenSymmetry) doing some text processing
+- [ ] [CodeInterpreters](https://github.com/ZCW-Summer25/CodeInterpreters.git) objects and interpreters
 
 ### Weekend Projects
 
-- [ScientificCalculator](https://github.com/ZipCodeCore/ScientificCalculator)
-- [Python.ScientificCalculator](https://github.com/ZipCodeCore/Python.ScientificCalculator)
-
-Java students will work on these projects:
-
-### Java Projects
-- [ ] Java/JavaSmall
-- [ ] Java/WordGuess
-
-Data (Python) students will work on these projects:
-
-### Python Projects
-
-- python: https://allendowney.github.io/ThinkPython/
-
-
-### Pipelines 1-4;
-- https://github.com/ZipCodeCore/PipelineOne (maybe next week)
+- [ScientificCalculator](https://github.com/ZCW-Summer25/ScientificCalculator)
+- [Python.ScientificCalculator](https://github.com/ZCW-Summer25/Python.ScientificCalculator)
 
 ## Blaze: zipcode's blogging engine
 
@@ -97,5 +81,3 @@ Even though these blogs are primarily for your learning, WriteFreely's federatio
 The platform's simplicity means faster loading times and fewer distractions, which is perfect for regular writing habits. Set up a routine—maybe Friday afternoon reflections or Tuesday project posts—and stick to it. The clean interface makes it easy to just start writing without getting bogged down in formatting decisions.
 
 So, you see, these posts are not just about coding skills but also about how you approach challenges, learn from mistakes, and grow as a professional. They showcase your ability to communicate effectively, think critically, and adapt to new situations - all essential qualities for success in any career.
-
-This is a new line I added
